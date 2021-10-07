@@ -19,6 +19,6 @@
 ---
 
 ### 💻 &nbsp;GitHub Analytics
-[![0zym4ndias github stats](https://github-readme-stats.vercel.app/api?username=0zym4ndias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![SU4696 github stats](https://github-readme-stats.vercel.app/api?username=0zym4ndias&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0zym4ndias&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
