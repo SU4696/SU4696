@@ -9,16 +9,16 @@
 📩 &nbsp;You can contact me at my email : csuyeon0105@gmail.com
 
 ### 💻 &nbsp;PROFESSIONAL PROFILE
-• Multilingual professional (Korean, Spanish,English) with 13+ years in Mexico and 1 year in Italy.
-• Computer Science graduate with expertise in Software PM, ios/ux development, and data-driven problem solving.
-• Automotive industry experience: SAP/MES localization, IATF 16949 & ISO 9001 audit support with Tier-1 suppliers (Kolon, Coavis,Samsong).
-• Global project leadership: Apple DeveloperAcademy (Italy), led agile sprints, product roadmap, and user-centered app design,cross-functional
-collaboration, critical thinking, and problem-solving.
-• Collaborated with Softtek, CEMEX, JohnDeere, Atos, Healthcare research on IT/ system projects bridging business andtechnical solutions.
-• Entrepreneurship: Operated Korea-Mexicoe-commerce service (5x growth) and provided tailored education consulting for immigrant families.
-• Global networking & leadership: VicePresident, World-OKTA Monterrey (Next-Gen), organized 100+ participant trade school.
+• Multilingual professional (Korean, Spanish,English) with 13+ years in Mexico and 1 year in Italy.\
+• Computer Science graduate with expertise in Software PM, ios/ux development, and data-driven problem solving.\
+• Automotive industry experience: SAP/MES localization, IATF 16949 & ISO 9001 audit support with Tier-1 suppliers (Kolon, Coavis,Samsong).\
+• Global project leadership: Apple DeveloperAcademy (Italy), led agile sprints, product roadmap, and user-centered app design,cross-functional\
+collaboration, critical thinking, and problem-solving.\
+• Collaborated with Softtek, CEMEX, JohnDeere, Atos, Healthcare research on IT/ system projects bridging business andtechnical solutions.\
+• Entrepreneurship: Operated Korea-Mexicoe-commerce service (5x growth) and provided tailored education consulting for immigrant families.\
+• Global networking & leadership: VicePresident, World-OKTA Monterrey (Next-Gen), organized 100+ participant trade school.\
 • Analytical mindset with Al/ML project exposure, leveraging market research, interviews, and data analysis to driveproduct and business
-improvements.
+improvements.\
 
 ### 💾 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
