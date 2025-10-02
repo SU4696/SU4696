@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-### 💻 &nbsp;About Me
-🐏 &nbsp;I studied Computer Science at Tecnologico de Monterrey.\
-&nbsp;I'm graduated Apple Developer Academy in Napoli, Italy.\
-💾 &nbsp;I´m enjoy developing with SwiftUI, Python, React/Next.js(HTML/CSS), Javascript C++, git, Firebase and SQL.\
-📁 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1lnlY6aJ0wGShPvJquNa2dvxokIIto2yS/view?usp=sharing) for more information about me.\
-[Detailed EU Resume](https://drive.google.com/file/d/12UE5Q5Qh44O1rUCLUo7k8nENZeU36uuX/view?usp=sharing) \
-📩 &nbsp;You can contact me at my email : csuyeon0105@gmail.com
+### 💻 About Me
+🐏 I studied Computer Science at Tecnológico de Monterrey. <br>
+📱 Graduated from the Apple Developer Academy in Napoli, Italy. <br>
+💾 I enjoy developing with **SwiftUI, Python, React/Next.js (HTML/CSS), JavaScript, C++, Git, Firebase, and SQL**. <br>
+📁 Please have a look at my [Resume](https://drive.google.com/file/d/1lnlY6aJ0wGShPvJquNa2dvxokIIto2yS/view?usp=sharing) for more information. <br>
+📄 [Detailed EU Resume](https://drive.google.com/file/d/12UE5Q5Qh44O1rUCLUo7k8nENZeU36uuX/view?usp=sharing) <br>
+📩 Contact me at: **csuyeon0105@gmail.com**
 
-### 💻 &nbsp;PROFESSIONAL PROFILE
+---
+
+### 💼 Professional Profile
 - Multilingual professional (**Korean, Spanish, English**) with 13+ years in Mexico and 1 year in Italy.  
 - **Computer Science graduate** with expertise in Software PM, iOS/UX development, and data-driven problem solving.  
 - **Automotive industry experience:** SAP/MES localization, IATF 16949 & ISO 9001 audit support with Tier-1 suppliers (Kolon, Coavis, Samsong).  
@@ -18,16 +20,24 @@
 - **Global networking & leadership:** Vice President, World-OKTA Monterrey (Next-Gen), organized a **100+ participant** trade school.  
 - **Analytical mindset with AI/ML exposure:** Leveraging market research, interviews, and data analysis to drive product and business improvements.  
 
-### 💾 &nbsp;Tech Stack
+---
+
+### 💾 Tech Stack
+
+**Languages**  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;  
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=tensorflow)&nbsp;  
+
+**Frameworks & Libraries**  
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=tensorflow)&nbsp;
+
+**Tools**  
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
