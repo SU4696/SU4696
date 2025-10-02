@@ -1,18 +1,28 @@
 ### Hi there 👋
 
 ### 💻 &nbsp;About Me
-🐏 &nbsp;I'm currently studying Computer Science at Tecnologico de Monterrey.\
-💾 &nbsp;I´m currently learning Swift, Python, C++, git and MySQL.\
-📁 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/16lQjVERdVvMe_pPRGkwVKm685anj_j2t/view?usp=sharing) for more information about me.\
+🐏 &nbsp;I'm studied Computer Science at Tecnologico de Monterrey.\
+&nbsp;I'm graduated Apple Developer Academy in Napoli, Italy.\
+💾 &nbsp;I´m enjoy developing with SwiftUI, Python, React/Next.js(HTML/CSS), Javascript C++, git, Firebase and SQL.\
+📁 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1lnlY6aJ0wGShPvJquNa2dvxokIIto2yS/view?usp=sharing) for more information about me.\
+[Detailed EU Resume](https://drive.google.com/file/d/12UE5Q5Qh44O1rUCLUo7k8nENZeU36uuX/view?usp=sharing) \
 📩 &nbsp;You can contact me at my email : csuyeon0105@gmail.com
 
 ---
 
 ### 💾 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SwiftUI] 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
+![HTML/CSS]
+![JavaScript]
+![Firebase]
+![SQL]
+![Machine Learning - Python]
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Xcode]
+
 
 
 
